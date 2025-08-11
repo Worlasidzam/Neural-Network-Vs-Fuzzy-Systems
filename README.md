@@ -25,6 +25,9 @@ This project compares two approaches for approximating a complex non-linear 3D c
 - **`FUZZYCONTROLLER.m`**: MATLAB implementation of fuzzy controller
 - **`NEURALNETCONTROLLER.m`**: MATLAB implementation of neural network
 
+## Report: 
+My final report is capturing my full understanding and Methodology and references can be found in the 'Neural Network & Fuzzy Systems' pdf
+
 
 NB; feel free to contribute  or share ideas geared towards improvements 
 
